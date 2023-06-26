@@ -1,0 +1,9 @@
+body{
+    background-image: url(../img/fondo_body.jpg); 
+    background-attachment: fixed; 
+    background-size: cover
+}
+
+.menos{
+    padding-right: 0em;
+}
